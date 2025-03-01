@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on my very own **E Commerce website**
  
- 🌱 I’m currently learning **React js, MondoDB, Node js**
+ 🌱 I’m currently learning **Node js, MongoDB, React, Next js**
 
 
  </div>
@@ -41,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,git,github,figma,matlab" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,java,javascript,react,next,html,css,c" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,matlab,mongodb,nodejs" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,next,html,css,c,python,java" /><br>
 </div>
 
 <br/>
